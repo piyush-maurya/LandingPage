@@ -42,6 +42,7 @@ h1 {
 h3 {
     text-align: center;
     padding: .8rem;
+}
 
 h4 {
     text-align: center;
@@ -49,6 +50,11 @@ h4 {
 h5 {
     text-align: center;
 }
-#footer-main {
-    padding: 6rem 0;
+
+#contact {
+    padding: 6rem;
+}
+#main-footer {
+    background: rgba(55, 67, 194, 0.32);
+    padding-top: 4rem;
 }
